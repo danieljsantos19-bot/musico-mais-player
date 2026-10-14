@@ -1,0 +1,21 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.musico.mais.player'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.musico.mais.player'
+        minSdk 24
+        targetSdk 35
+        versionCode 38
+        versionName '3.8'
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.7.0'
+    implementation 'androidx.webkit:webkit:1.12.1'
+}

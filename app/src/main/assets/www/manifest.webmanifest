@@ -1,0 +1,12 @@
+{
+  "name": "Músico+ Player",
+  "short_name": "Músico+",
+  "start_url": "./",
+  "display": "fullscreen",
+  "background_color": "#06101b",
+  "theme_color": "#06101b",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "orientation": "any",
+  "scope": "./"
+}
